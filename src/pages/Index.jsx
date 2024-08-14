@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div className="min-h-screen bg-gray-100 dark:bg-gray-900">
       <Header />
       <main className="container mx-auto px-4 py-8">
         <div className="flex flex-col md:flex-row gap-8">
